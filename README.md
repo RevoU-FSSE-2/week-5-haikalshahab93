@@ -81,7 +81,7 @@
  
  8. Berhasil dan tampilan website dengan domain yang dibuat niagahoster sukses
   <img src="style/image/readme/momyfresh.PNG" width="100%" height>
-   [websites](https://haikalshahab5.netlify.app)
+   [websites](https://milestone1.shahabweb.site)
 
 
 <br>
